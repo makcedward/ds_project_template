@@ -1,0 +1,3 @@
+- preparation: Perform data ingestion action. Getting data from csv, Hadoop, database etc.
+- processing: Perform data processing action. Transforming raw data to correct data format and structure for building model.
+- modeling: Perform model training action. Training a model based on data processing output
