@@ -1,1 +1,1 @@
-Placholder for describing models
+Storing intermediate result in here only. For long term, it should be stored in model repository separately. Besides binary model, you should also store model metadata such as date, size of training data.

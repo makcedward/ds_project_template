@@ -1,1 +1,1 @@
-Placholder for describing test cases
+Test case for asserting python source code. Make sure no bug when changing code. Rather than using manual testing, automatic testing is an essential puzzle of successful project. Teammates will have confidence to modify code assuming that test case help to validate code change do not break previous usage.
